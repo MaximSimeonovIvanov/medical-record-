@@ -14,3 +14,5 @@ Za vseki service interface imame i implementaciq
 
 
 opisva se che servica shte raboti s repository a controlera shte raboti sys servica = dependency injection
+
+Proba greshka, ei raz dva tri shessss, raz dva tri shesssst
