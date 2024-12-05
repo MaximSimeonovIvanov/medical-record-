@@ -1,0 +1,16 @@
+1
+In package "data"
+    -storing mainly two things: entities and repostitories
+    repository трябва да попадне в рамката на спец йерархия която е от такива repos (crud, jpa)
+
+Data layer & service layer?
+
+za sega:
+web package - api and controller (view?)
+service package - interface za medicine service i negovata implementaciq
+
+SOLID principite za interfacovete w service za da sme gavkavi
+Za vseki service interface imame i implementaciq
+
+
+opisva se che servica shte raboti s repository a controlera shte raboti sys servica = dependency injection
